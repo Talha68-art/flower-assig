@@ -1,0 +1,48 @@
+.flower-left{
+    float: left;
+    margin-right: 10px;
+}
+
+.flower-right{
+    float: right;
+    margin-left: 10px;
+}
+
+.para{
+    width: 450px;
+    height: 350px;
+}
+
+.large{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 10px;
+
+
+}
+
+.medium{
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    padding: 10px;
+
+
+}
+
+
+.small{
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    padding: 10px;
+
+
+}
+
+.tree{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px;
+}
